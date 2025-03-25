@@ -1,5 +1,8 @@
 # Django Admin Locking
 
+> [!NOTE]
+> This package is not maintained and has only been updated to remove depreceted code in Django 4.
+
 [![build-status-image]][travis] [![coveralls-status-image]][coveralls]
 
 Prevents users from overwriting each others changes in Django.
